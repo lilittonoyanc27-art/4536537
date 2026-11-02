@@ -1,0 +1,6 @@
+{
+  "name": "Los Conectores en Español — Իսպաներենի Կապակցող Բառեր (A2–C1)",
+  "description": "Ինտերակտիվ ուսումնական հարթակ իսպաներենի կապակցող բառերի (conectores) համար՝ հայերեն թարգմանություններով, կտտացնելով թարգմանությունը բացելու հնարավորությամբ, արտասանությամբ և 10 ինտերակտիվ վարժություններով:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

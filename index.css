@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Plus Jakarta Sans', 'Noto Sans Armenian', system-ui, -apple-system, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #0f172a;
+}
+
+.hy-text {
+  font-family: 'Noto Sans Armenian', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  line-height: 1.75;
+  letter-spacing: 0.01em;
+}
+
+/* Reader font-size modes */
+.text-scale-normal {
+  font-size: 16px;
+}
+.text-scale-large {
+  font-size: 18px;
+}
+.text-scale-xlarge {
+  font-size: 20px;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
